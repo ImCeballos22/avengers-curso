@@ -18,3 +18,4 @@
 * Wasp
 * Antman
 * Villanetas
+* Nick Fury
